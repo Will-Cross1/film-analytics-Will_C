@@ -35,8 +35,8 @@ TODO
 
 ## Technology used
 
- - **Frontend:** JavaScript/React TODO
- - **Backend:** Python, FastAPI/Flask, SQLAlchemy TODO
+ - **Frontend:** JavaScript TODO
+ - **Backend:** JavaScript, Node.js, Express.js, Supabase TODO
  - **APIs:** OMDB API, YouTube API, website API TODO
 
 ---
